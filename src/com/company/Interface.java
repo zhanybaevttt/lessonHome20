@@ -1,2 +1,5 @@
-package com.company;public interface Interface {
+package com.company;
+
+public interface Interface {
+    void pay();
 }
